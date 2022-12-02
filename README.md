@@ -26,3 +26,6 @@
  
  ## Udacity
  1. AWS Machine Learning Foundations 2022
+
+ ## Licence
+ The content of this repository is licenced under a Creative Commons Zero v1.0 Universal.
